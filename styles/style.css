@@ -3146,7 +3146,7 @@ body.modal-open {
     float: left;
     width: 180px;
     background-color: #f28e00;
-    padding: 18px 10px 18px 18px;
+    padding: 10px 10px 18px 18px;
     height: 56px;
     text-align: center
 }
