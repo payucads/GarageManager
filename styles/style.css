@@ -2856,7 +2856,8 @@ body {
     left: 0;
     position: absolute;
     top: 62px;
-    transition: margin .4s ease 0s
+    transition: margin .4s ease 0s;
+    background: #F7F9FA;
 }
 #wrapper {
     margin: 0 0 0 180px;
@@ -3166,7 +3167,8 @@ body.modal-open {
 }
 .profile-picture {
     padding: 20px 20px;
-    text-align: center
+    text-align: center;
+    background-color: #ffffff;
 }
 .label-menu-corner .label {
     font-size: 10px;
@@ -4029,4 +4031,14 @@ body.light-skin.fixed-footer .footer {
     .landing-page .navbar .navbar-brand {
         margin-left: 10px
     }
+}
+
+.icon-thumbnail {
+  background: #ffffff;
+  color: #6a6c6f;
+  height: 22px;
+  width: 24px;
+  line-height: 21px;
+  text-align: center;
+  vertical-align: middle;
 }
